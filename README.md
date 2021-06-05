@@ -4,7 +4,7 @@
 
 ## I'm a passionate developer
 
-- 🔭 I’m currently working on something cool :wink:
+- 🔭 I’m currently working on something LiamBot :wink:
 - 🌱 I’m currently learning flask
 - 📫 How to reach me: [Discord](https://dsc.gg/arkon)
 - ⚡ Fun fact: I love to draw and listen to music
