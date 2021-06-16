@@ -6,7 +6,7 @@
   <a href="https://instagram.com/mrarkon">Instagram</a>
 </p>
 
-- 😄 My Pronouns: He/Him
+- 😄 My Pronouns: **He/Him**
 - 🌱 I’m currently learning **C++**
 - 💬 Ask me about **Python**
 - 📫 How to reach me: [MrArkon#0001](https://discord.com/users/733370212199694467) on Discord
