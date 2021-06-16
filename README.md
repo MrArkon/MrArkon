@@ -5,9 +5,8 @@
 ## I'm a passionate developer
 
 - 🔭 I’m currently working on something LiamBot
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: [Discord](https://dsc.gg/arkon)
-- ⚡ Fun fact: I love to draw and listen to music
 
 ### Connect with me:
 
