@@ -6,10 +6,18 @@
   <a href="https://instagram.com/mrarkon">Instagram</a>
 </p>
 
+**About:**
+
 - 😄 My Pronouns: **He/Him**
 - 🌱 I’m currently learning **C++**
 - 💬 Ask me about **Python, Discord.py**
 - 📫 How to reach me: [MrArkon#0001](https://discord.com/users/733370212199694467) on Discord
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 -----
 
