@@ -1,10 +1,4 @@
 <h2 align="center">👋 Hello! I'm MrArkon.</h1>
-<p align="center">
-  <a href="https://twitter.com/mrarkon">Twitter</a> •
-  <a href="https://www.youtube.com/channel/UCr-qPRkrdwWrsETXT7ztQsQ">Youtube</a> •
-  <a href="https://discord.gg/dVNfdXe">Discord</a> •
-  <a href="https://instagram.com/mrarkon">Instagram</a>
-</p>
 
 **About:**
 
