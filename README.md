@@ -2,7 +2,7 @@
 
 **About:**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Python, Discord.py**
 - 📫 How to reach me: [MrArkon#0001](https://discord.com/users/733370212199694467) on Discord
 
