@@ -1,18 +1,35 @@
 <h2 align="center">👋 Hello! I'm MrArkon.</h1>
 
+<p align='center'>
+  
+  <a href="https://discord.com/invite/dVNfdXe/">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 **About:**
 
 - 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **Python, Discord.py**
+- 💬 Ask me about **Python, Web developement**
 - 🤔 I’m looking for help with [my website](https://github.com/MrArkon/mrarkon.github.io)
 - 📫 How to reach me: [MrArkon#0001](https://discord.com/users/733370212199694467) on Discord
 
-**Languages and Tools:**  
+**Languages I work with:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"></code>
-<code><img height="20" src="https://www.postgresql.org/media/img/about/press/elephant.png"></code>
+**Database I work with:**
+<p>
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
 
 -----
