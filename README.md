@@ -12,6 +12,7 @@
 
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Python & Web developement**
+- 👯 I’m looking to collaborate on Python Projects
 - 🤔 I’m looking for help with [my website](https://github.com/MrArkon/mrarkon.github.io)
 - 📫 How to reach me: [MrArkon#0001](https://discord.com/users/733370212199694467) on Discord
 
