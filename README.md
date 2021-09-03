@@ -11,7 +11,7 @@
 **About:**
 
 - 🌱 I’m currently learning **Rust**
-- 💬 Ask me about **Python, Web developement**
+- 💬 Ask me about **Python & Web developement**
 - 🤔 I’m looking for help with [my website](https://github.com/MrArkon/mrarkon.github.io)
 - 📫 How to reach me: [MrArkon#0001](https://discord.com/users/733370212199694467) on Discord
 
@@ -29,6 +29,13 @@
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+**Frameworks I work with:**
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 
