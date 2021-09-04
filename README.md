@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hello! I'm MrArkon.</h1>
+<h2>👋 Hey!, I'm MrArkon.</h1>
 
-<p align='center'>
+<p>
   
   <a href="https://discord.com/invite/dVNfdXe/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
