@@ -38,9 +38,3 @@
   <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
-
-
------
-
-### 📊 Metrics
-<img src="https://github.com/MrArkon/MrArkon/blob/main/github-metrics.svg" alt="Metrics" width="48%" />
