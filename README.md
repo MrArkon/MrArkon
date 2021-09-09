@@ -5,9 +5,6 @@
   <a href="https://discord.com/invite/dVNfdXe/">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=MrArkon&style=flat-square" />
-  </a>
   
 </p>
 
@@ -43,5 +40,3 @@
 </p>
 
 <p>Show some ❤️ by starring some of the repositories</p>
-
-![](https://hit.yhype.me/github/profile?user_id=71749203)
