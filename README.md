@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Python & Web developement**
 - 👯 I’m looking to collaborate on [kitsu.py](https://github.com/MrArkon/kitsu.py)
-- 🤔 I’m looking for help with [my website](https://github.com/MrArkon/mrarkon.github.io)
 - 📫 How to reach me: [MrArkon#3939](https://discord.com/users/733370212199694467) on Discord
 
 **Languages I work with:**
