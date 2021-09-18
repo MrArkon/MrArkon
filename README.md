@@ -1,4 +1,4 @@
-<h2>👋 Hey!, I'm MrArkon.</h1>
+## 👋 Hey!, I'm MrArkon.
 - 🌱 I’m currently learning **Rust**
 - 💬 Ask me about **Python & Web developement**
 - 👯 I’m looking to collaborate on [kitsu.py](https://github.com/MrArkon/kitsu.py)
