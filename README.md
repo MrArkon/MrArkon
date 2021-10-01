@@ -11,6 +11,7 @@ Glad to see you! My name on the internet is **MrArkon**, I'm a passionate **Full
   - HTML & CSS
   - SCSS
   - Hugo
+  - TailWindCSS
   ### Application Developement
   - Python
   - Rust
