@@ -1,18 +1,18 @@
 ## Hi there :wave: , I'm [MrArkon](https://mrarkon.github.io)
-Glad to see you! My name on the internet is **MrArkon**, I'm a hobbyist programmer from **India**, I mainly work with **Python** & **Rust**, but I am always learning. I am working on a couple of open source projects, like [**kitsu.py**](https://github.com/MrArkon/kitsu.py) which is an async python API wrapper for kitsu.
+Glad to see you! My name on the internet is **MrArkon**, I'm a Hobbyist Programmer from **India**, I mainly work with **Python** & **Rust**, but I am always eager to learn new languages & technologies. I am working on a couple of open source projects, like [**Kitsu.py**](https://github.com/MrArkon/kitsu.py) which is an asynchronous python API wrapper for kitsu.
 
 <details>
 <summary>
   More about me
 </summary>
   
-  ## 🍱 My Skills
+  ## 🍱 Languages, Technologies & Skills
   ### Web Technologies
   - HTML & CSS
   - SCSS
   - Hugo
   - TailWindCSS
-  ### Application Developement
+  ### Software Developement
   - Python
   - Rust
   ### Databases
@@ -20,11 +20,8 @@ Glad to see you! My name on the internet is **MrArkon**, I'm a hobbyist programm
   - Redis
   - SQLite
   - MongoDB
-  ### Productivity Utilities
-  - Visual Studio Code
-  - Sublime Text
  
-  ## 📊 My Github Stats
+  ## 📊 Github Statistics
   <p align="center">
     <table>
       <tr>
