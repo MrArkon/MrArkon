@@ -6,15 +6,15 @@ Glad to see you! My name on the internet is **MrArkon**, I'm a Hobbyist Programm
   More about me
 </summary>
   
-  ## 🍱 Languages, Technologies & Skills
-  ### Web Technologies
-  - HTML & CSS
-  - SCSS
-  - Hugo
-  - TailWindCSS
-  ### Software Developement
+  ## 🍱 Skills
+  ### Languages
+  - HTML
+  - CSS/Sass
   - Python
   - Rust
+  ### Frameworks
+  - Hugo
+  - TailwindCSS
   ### Databases
   - PostGreSQL
   - Redis
